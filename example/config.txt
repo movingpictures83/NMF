@@ -1,0 +1,2 @@
+Prefix plugins/NMF/example/
+Plugin NMF inputfile parameters.txt outputfile output.txt
